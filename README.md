@@ -1,10 +1,10 @@
 # DS501_Introduction_To_DataScience
 
-Semester | Fall 2019
-Instructor | Prof. Xiangnan Kong
-Course Code | DS501
-Course Name | Introduction to Data Science
-Developed in Language | Python3
+Semester: Fall 2019 <br />
+Instructor: Prof. Xiangnan Kong <br />
+Course Code: DS501 <br />
+Course Name: Introduction to Data Science <br />
+Developed in Language: Python3 <br />
 
 
 ## Homework:
