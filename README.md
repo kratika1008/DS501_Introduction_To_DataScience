@@ -1,10 +1,10 @@
 # DS501_Introduction_To_DataScience
 
-Semester: Fall 2019 <br />
-Instructor: Prof. Xiangnan Kong <br />
-Course Code: DS501 <br />
-Course Name: Introduction to Data Science <br />
-Developed in Language: Python3 <br />
+**Semester:** Fall 2019 <br />
+**Instructor:** Prof. Xiangnan Kong <br />
+**Course Code:** DS501 <br />
+**Course Name:** Introduction to Data Science <br />
+**Developed in Language:** Python3
 
 
 ## Homework:
@@ -18,6 +18,7 @@ Developed in Language: Python3 <br />
 	* Solving MoneyBall problem from scratch
 * Homework 3:
 	* MapReduce implementation in Python
+	* Recommender System implementation from scratch
 * Homework 4:
 	* Principal Component Analysis (PCA)
 	* Face Recognition
@@ -27,11 +28,18 @@ Developed in Language: Python3 <br />
 	* Monte Carlo Tree Search (MCTS)
 
 ## Case Studies:
-
+* Case 1:
+	* Yelp Data Analysis (check CaseStudies/Case_1 for details)
+* Case 2:
+	* Stock Price Data Analysis (check CaseStudies/Case_2 for details)
+* Case 3:
+	* Uber Demand Analysis in NYC (check CaseStudies/Case_3 for details)
+* Case 4:
+	* Walmart Store Sales Prediction (check CaseStudies/Case_4 for details)
 
 ## Package Requirements:
-* Numpy
-* Pandas
-* Matplotlib
-* Nose (for running nose tests)
+* numpy
+* pandas
+* matplotlib
+* nose (for running nose tests)
 
