@@ -1,4 +1,4 @@
-# Case Study 1: Yelp Data Review Analysis (Pyhton3)
+# Case Study 1: Yelp Data Review Analysis (Python3)
 
 ## Goal:
 Analyze reviews of Businesses (Restaurants in our case) that have low rating (less than 2.5 out of 5) and highlight what people dislike about the place.
