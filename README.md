@@ -7,11 +7,23 @@ Developed in Language: Python3
 
 
 ## Homework:
-* Homework 1: Basics of Python, Numpy package, Building PageRank algorithm from scratch
-* Homework 2: Basics of Pandas package, Solving FaceMesh & MoneyBall problem from scratch
-* Homework 3: MapReduce implementation in Python
-* Homework 4: Principal Component Analysis (PCA)
-* Homework 5: TicTacToe & MinMax AI Player from scratch. Monte Carlo Tree Search (MCTS)
+* Homework 1:
+	* Basics of Python
+	* Basics of Numpy package
+	* Building PageRank algorithm from scratch
+* Homework 2:
+	* Basics of Pandas package
+	* Solving FaceMesh problem from scratch
+	* Solving MoneyBall problem from scratch
+* Homework 3:
+	* MapReduce implementation in Python
+* Homework 4:
+	* Principal Component Analysis (PCA)
+	* Face Recognition
+	* Graph Clustering (Spectral Clustering)
+* Homework 5:
+	* TicTacToe & MinMax AI Player from scratch
+	* Monte Carlo Tree Search (MCTS)
 
 ## Case Studies:
 
